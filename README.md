@@ -4,6 +4,5 @@
 
 - Скачать: [Releases](https://github.com/slitter-tech/sonatafy-releases/releases/latest)
 - Установщик: `SonataFy-<версия>-Setup.exe`
+- Portable: `SonataFy-<версия>-Portable.exe` — запуск без установки, но без автообновлений
 - `latest.yml` и `.blockmap` — служебные файлы автообновления, руками их не трогай.
-
-Portable-сборка сюда не выкладывается: она не умеет обновляться на месте.
